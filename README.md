@@ -33,4 +33,3 @@ In this project, you will learn Next.js 14, Drizzle ORM, PostgreSQL, Server Acti
 - Clerk for authentication
 - React Admin
 - NeonDB
-- Vercel for deployment
